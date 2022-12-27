@@ -1,0 +1,80 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    overflow-x:hidden;
+}
+.mainBackground{
+    background: rgba(242, 247, 255, 0.7);
+    backdrop-filter: blur(50px);
+    background-image: url("/images/BG.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.getStartedButton{
+    background: #7C3AED;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+.watchVideo{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #7C3AED;
+}
+.secBackground{
+    background: #D5FAFC;
+}
+.comaBg{
+    background-image: url("/images/bigComa.png");
+    background-repeat:no-repeat;
+}
+.secBgPadding{
+    padding-top: 8rem;
+}
+.offsetBg{
+    background: white;
+    border-radius: 8px;
+}
+.counter-box {
+	display: block;
+	text-align: center
+}
+.counter { 
+	display: block;
+	font-size: 32px;
+	font-weight: 700;
+	color: black;
+	line-height: 28px
+}
+.footerBg{
+    background-color: #1DB5BE;
+    margin-top: 2rem;
+}
+.footerBtnPadding{
+    margin-top: 5rem;
+}
+.footerBgBlack{
+    background-color: black;
+    width: 100%;
+}
+.rights{
+    padding: 8rem 5rem 5rem 5rem;
+}
+.quoteColor{
+    color: #1DB5BE;;
+}
+.rightsText{
+    margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 14px;    
+    line-height: 20px;
+    color: #D1D5DB;
+}
+.phoneMockup{
+    width: auto;
+    margin-top: -1rem;
+}

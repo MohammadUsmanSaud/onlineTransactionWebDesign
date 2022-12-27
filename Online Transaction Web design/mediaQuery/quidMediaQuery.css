@@ -1,0 +1,357 @@
+@media only screen and (max-device-width: 480px)
+and (min-device-width:320px){
+    .navbarhome{  
+        margin-left: 3rem;  
+        color: #111827; 
+    }
+    .homeimg{
+        padding: 1rem 1rem;
+        width: 60%;
+    }
+    .mainDiv{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    } 
+    .secBgPadding{
+        padding-top: 2rem;
+    }
+    .fourPageDiv{
+        padding: 2rem 2rem 2rem 2rem;
+        margin-bottom: -2rem;
+    }
+    .footerText{
+        padding: 2rem 0rem 0rem 2rem;
+    }
+    .footerBtnPadding{
+        margin-top: 2rem;
+    }
+    .rights{
+        padding: 2rem 1rem 2rem 1rem;
+    }
+    .col1{
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col2{
+        margin: 2rem 0rem 2rem 0rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col3{
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .comaText{
+        padding: 4rem 0rem 0rem 6rem;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .comaText2{
+        padding-left: 6rem;
+    }
+    .iconText{
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .mainText{
+        padding-top:1rem ;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .topText{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .quidText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .restText{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .endText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .phoneMockup{
+        display:none;
+    }
+}    
+@media only screen and (min-device-width: 768px)
+and (max-device-width: 1023px){
+
+    .navbarhome{  
+        margin-left: 3rem; 
+        margin-right: 3rem; 
+        color: #111827; 
+    }
+    .homeimg{
+        padding: 1rem 1rem;
+        width: 60%;
+    }
+    .mainDiv{
+        padding-top: 1rem;
+    }
+    .fourPageDiv{
+        padding: 2rem 4rem 2rem 4rem;
+        margin-bottom: -2rem;
+    }
+    .rights{
+        padding: 4rem 2rem 4rem 2rem;
+    }
+    .col1{
+        margin: 0rem 0rem 0rem 5rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col2{
+        margin: 8rem 0rem 2rem 0rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col3{
+        margin: 0rem 5rem 0rem 0rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .comaText{
+        padding: 4rem 0rem 0rem 6rem;
+        font-weight: 700;
+        font-size: 29px;
+        line-height: 35px;
+    }
+    .comaText2{
+        padding-left: 6rem;
+    }
+    .iconText{
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .mainText{
+        padding-top:1rem ;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .topText{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .quidText{
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .restText{
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 27px;
+    }
+    .endText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .mainDivSize{
+        padding-left: 4rem;
+    }
+}
+@media only screen and (min-device-width: 1024px)
+and (max-device-width:1439px){
+    .navbarhome{  
+        margin-left: 3rem;  
+        margin-right: 3rem;
+        color: #111827; 
+    }
+    .homeimg{
+        padding: 1rem 1rem;
+        width: 50%;
+    }
+    .mainDiv{
+        padding-top: 1rem;
+    } 
+    .fourPageDiv{
+        padding: 2rem 4rem 2rem 4rem;
+        margin-bottom: -2rem;
+    }
+    .col1{
+        margin: 0rem 0rem 0rem 5rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col2{
+        margin: 8rem 0rem 2rem 0rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col3{
+        margin: 4rem 5rem 0rem 0rem;
+        padding: 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .comaText{
+        padding: 4rem 0rem 0rem 6rem;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .comaText2{
+        padding-left: 6rem;
+    }
+    .iconText{
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .mainText{
+        padding-top:1rem ;
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .topText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .quidText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .restText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .endText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .mainDivSize{
+        padding-left: 5rem;
+    }
+}
+@media only screen and (min-device-width: 1440px)
+and (max-device-width:2560px){
+    .navbarhome{  
+        margin-left: 10rem; 
+        margin-right: 10rem; 
+        color: #111827; 
+    }
+    .homeimg{
+        padding: 1rem;
+        width: 50%;
+    }
+    .mainDiv{
+        padding-top: 1rem;
+    } 
+    .colDiv{
+        padding: 0rem 8rem 0rem 10rem;
+    }
+    .iconText{
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 25px;
+    }
+    .col1{
+        margin: 0rem 0rem 0rem 18rem;
+        padding: 2rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col2{
+        margin: 8rem 12rem 0rem 0rem;
+        padding: 2rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .col3{
+        margin: 4rem 17rem 0rem 0rem;
+        padding: 1rem 2rem 1rem 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 8px -2px rgba(17, 24, 39, 0.1), 0px 2px 4px -2px rgba(17, 24, 39, 0.06);
+        border-radius: 8px;
+    }
+    .fourPageDiv{
+        padding: 5rem 5rem 2rem 5rem;
+    }
+    .iconText{
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .comaText{
+        padding: 4rem 0rem 0rem 6rem;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .comaText2{
+        padding-left: 6rem;
+    }
+    .iconText{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .mainText{
+        padding-top:1rem ;
+        font-weight: 700;
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .topText{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .quidText{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .restText{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .endText{
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .mainDivSize{
+        padding-left: 10rem;
+    }
+}
